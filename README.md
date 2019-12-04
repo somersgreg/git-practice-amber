@@ -16,6 +16,7 @@ Used to Practice Flow, and practice PR (pull requests)
 -run " git commit -m 'your message goes between quotations' "
 -run 'git push origin <firstname-lastname>' to push it up YOUR branch
 -go back into github, add me as a collaborator (this will be your TL in normal PR for lambda)
+Amber's GitHub handle: a-soren
 -once I accept your request, you can add me as a reviewer on your PR
 -I'll merge it back into my master branch once it's all done!!
 
